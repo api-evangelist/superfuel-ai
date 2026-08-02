@@ -1,0 +1,24 @@
+# Mint Starter Kit
+
+## Docs
+
+- [Agent](https://docs.superfuel.io/concepts/agent.md)
+- [Workflow Library](https://docs.superfuel.io/concepts/workflow-library.md)
+- [Workflows](https://docs.superfuel.io/concepts/workflows.md)
+- [Agent data access](https://docs.superfuel.io/features/agent-data.md)
+- [Editing a Workflow](https://docs.superfuel.io/features/editing-workflow.md)
+- [Execution trace ](https://docs.superfuel.io/features/execution-trace.md): See exactly how the Agent thinks and debugs issues with step-by-step execution logs for every workflow run
+- [Scheduling a Workflow](https://docs.superfuel.io/features/scheduling-workflow.md): Learn how to set workflows to run automatically at the right frequency for each task
+- [Workflow Outputs & Actions](https://docs.superfuel.io/features/workflow-output-actions.md)
+- [Connect your account](https://docs.superfuel.io/getting-started/connect-account.md)
+- [Run your first Workflow](https://docs.superfuel.io/getting-started/first-workflow.md): Create your first Workflow in 10 Minutes. In this section we'll cover how you can run a Workflow from the Workflow Library, as well as how you can create your own custom Workflow.
+- [Intro to Superfuel](https://docs.superfuel.io/getting-started/index.md)
+- [Popular use cases](https://docs.superfuel.io/more-resources/popular-usecases.md): This is a list of some use cases that are widely used by Superfuel users
+- [Pricing](https://docs.superfuel.io/more-resources/pricing.md)
+- [Prompts examples](https://docs.superfuel.io/more-resources/prompt-examples.md): These are examples of how you can prompt the agent to get the desired output. The more you explain your current process in 3 to 4 sentences, the better the output will be.
+- [Best practices](https://docs.superfuel.io/more-resources/success-stories.md)
+- [Support & training](https://docs.superfuel.io/more-resources/support.md)
+
+## OpenAPI Specs
+
+- [openapi](https://docs.superfuel.io/api-reference/openapi.json)

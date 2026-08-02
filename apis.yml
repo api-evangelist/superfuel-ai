@@ -1,8 +1,26 @@
 aid: superfuel-ai
-name: 'Superfuel AI '
-description: 'Superfuel AI  is a company surfaced as a portfolio company of accel and added to the API
-  Evangelist network as a stub for enrichment. Sector: ecommerce. This profile is a lead awaiting the
-  enrichment pipeline.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/superfuel-ai.png
+name: Superfuel AI
+description: 'Superfuel is an AI agent for Amazon sellers that reads competitor data, customer reviews,
+  brand analytics, and product features, then writes and measures optimized product listings — most
+  notably Amazon titles and the new 125-character Item Highlights field. Sellers connect their Amazon
+  Seller Central account and run pre-built or custom Workflows (schedulable, with execution traces)
+  that automate repetitive catalog and market-analysis tasks, while a measurement system isolates a
+  change''s real impact on CTR, sessions, and conversion by stripping out price, ad spend, seasonality,
+  and deals. Superfuel is an end-user SaaS product (credit-metered plans) rather than a developer API
+  provider; it publishes product documentation on Mintlify but no first-party public REST API. Backed
+  by Accel; sector: ecommerce.'
 url: https://raw.githubusercontent.com/api-evangelist/superfuel-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ecommerce
+- Amazon
+- Amazon Sellers
+- Listing Optimization
+- AI Agent
+- Workflows
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,30 @@ maintainers:
 common:
 - type: Website
   url: https://superfuel.io/
+- type: Documentation
+  url: https://docs.superfuel.io/
+- type: GettingStarted
+  url: https://docs.superfuel.io/getting-started/index.md
+- type: LLMsTxt
+  url: llms/superfuel-ai-llms.txt
+- type: Blog
+  url: https://superfuel.io/blog
+- type: Pricing
+  url: https://superfuel.io/pricing
+- type: SignUp
+  url: https://app.superfuel.io/start
+- type: Login
+  url: https://app.superfuel.io/sign-in
+- type: TermsOfService
+  url: https://superfuel.io/terms
+- type: PrivacyPolicy
+  url: https://superfuel.io/privacy
+- type: Support
+  url: mailto:support@superfuel.io
+- type: DomainSecurity
+  url: security/superfuel-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
