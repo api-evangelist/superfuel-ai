@@ -1,0 +1,20 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/superfuel-ai/integrations
+- https://zapier.com/apps/superfuel/integrations
+- https://n8n.io/integrations/superfuel-ai/
+- https://n8n.io/integrations/superfuel/
+- https://composio.dev/toolkits/superfuel-ai
+- https://monid.ai/tools/superfuel-ai
+checked:
+- https://composio.dev/toolkits/superfuel-ai
+- https://monid.ai/tools/superfuel-ai
+- https://n8n.io/integrations/superfuel-ai/
+- https://n8n.io/integrations/superfuel/
+- https://zapier.com/apps/superfuel-ai/integrations
+- https://zapier.com/apps/superfuel/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
